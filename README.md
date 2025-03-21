@@ -3,12 +3,12 @@ Welcome to my portfolio! I'm Pradeep Singh, a passionate Web Developer. Through 
 This is a Personal Portfolio Website showcasing my skills, projects, and contact information. The website is designed to provide a professional online presence and help potential employers or clients learn more about me.
 
 # Features
-Responsive Design  – Optimized for all devices (mobile, tablet, desktop).
-About Me Section – Brief introduction and background.
-Skills Section – List of technologies and tools I am proficient in.
-Projects Showcase – Display of my featured projects with links.
-Contact Form – A form to allow visitors to reach out to me.
-Social Media Links – Easy access to my LinkedIn, GitHub, and other platforms.
+1. Responsive Design  – Optimized for all devices (mobile, tablet, desktop).
+2. About Me Section – Brief introduction and background.
+3. Skills Section – List of technologies and tools I am proficient in.
+4. Projects Showcase – Display of my featured projects with links.
+5. Contact Form – A form to allow visitors to reach out to me.
+6. Social Media Links – Easy access to my LinkedIn, GitHub, and other platforms.
 
 # Technologies Used
 1. HTML 
@@ -18,9 +18,9 @@ Social Media Links – Easy access to my LinkedIn, GitHub, and other platforms.
 
 # Setup Instructions
 # Prerequisites
-Ensure you have the following installed:
-A modern web browser
-Code editor (VS Code recommended)
+1. Ensure you have the following installed:
+2. A modern web browser
+3. Code editor (VS Code recommended)
 
 # Steps to Run the Project
 1. Clone the repository:
@@ -37,9 +37,9 @@ https://pradeep-r04.github.io/portfolio/
 3. Follows Best Practices – Semantic HTML, responsive design, and optimized assets are used.
 
 # Future Enhancements
-Dark mode toggle
-Blog section for articles
-Animation effects for a better user experience
+1. Dark mode toggle
+2. Blog section for articles
+3. Animation effects for a better user experience
 
 # Contact
 For any queries or collaboration opportunities, feel free to reach out:
