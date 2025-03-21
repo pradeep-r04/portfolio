@@ -11,9 +11,9 @@ Contact Form – A form to allow visitors to reach out to me.
 Social Media Links – Easy access to my LinkedIn, GitHub, and other platforms.
 
 # Technologies Used
-~ HTML 
-~ CSS 
-~ JavaScript
+1. HTML 
+2. CSS 
+3. JavaScript
 
 
 # Setup Instructions
@@ -23,7 +23,6 @@ A modern web browser
 Code editor (VS Code recommended)
 
 # Steps to Run the Project
-# If it's a Static Website:
 1. Clone the repository:
 git clone https://github.com/pradeep-r04/portfolio.git
 2. Navigate to the project folder:
@@ -44,8 +43,8 @@ Animation effects for a better user experience
 
 # Contact
 For any queries or collaboration opportunities, feel free to reach out:
-Email: pradeep.singh04r@gmail.com
-LinkedIn: https://www.linkedin.com/in/pradeep-singh4/
-GitHub: https://github.com/pradeep-r04
+1. Email: pradeep.singh04r@gmail.com
+2. LinkedIn: https://www.linkedin.com/in/pradeep-singh4/
+3. GitHub: https://github.com/pradeep-r04
 
-~~~~~Thank you for visiting my portfolio!~~~~~
+# Thank you for visiting my portfolio!
