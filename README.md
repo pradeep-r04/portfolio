@@ -41,10 +41,28 @@ https://pradeep-r04.github.io/portfolio/
 2. Blog section for articles
 3. Animation effects for a better user experience
 
-# Contact
-For any queries or collaboration opportunities, feel free to reach out:
-1. Email: pradeep.singh04r@gmail.com
-2. LinkedIn: https://www.linkedin.com/in/pradeep-singh4/
-3. GitHub: https://github.com/pradeep-r04
+## Images:
+### 1. Home Page  
+![Image](https://github.com/user-attachments/assets/38852a2b-42f8-42d2-a827-becf5c92590a)
+
+### 2. About SEction  
+![Image](https://github.com/user-attachments/assets/d808e013-f73e-408d-9999-f4e3a3223549)
+
+### 3. Skills Section
+![Image](https://github.com/user-attachments/assets/d566eef2-5d8c-419f-aaf0-707013ca24e3)
+
+### 4. Projects Section
+![Image](https://github.com/user-attachments/assets/d0faa377-58cf-45cb-9f11-8a0678dd44c1) 
+
+### 5. Internships Section
+![Image](https://github.com/user-attachments/assets/d6c1f82b-253b-4c4c-80d3-434114d80465)
+
+### 6. Contact Section
+![Image](https://github.com/user-attachments/assets/34c9d846-fac3-4e2d-b0b5-4e754b3fa831)
+
+## Connect with me:
+| Name    | Email              | LinkedIn                                      | GitHub                      | Instagram                     |
+|---------|--------------------|-----------------------------------------------|-----------------------------|-------------------------------|
+| Pradeep | [Email](pradeep.singh04r@gmail.com)  | [LinkedIn](https://linkedin.com/in/pradeep-singh4) | [GitHub](https://github.com/pradeep-r04) | [Instagram](https://instagram.com/whypradeeep) |  
 
 # Thank you for visiting my portfolio!
