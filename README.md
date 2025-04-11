@@ -1,4 +1,4 @@
-# portfolio
+# Personal Portfolio
 Welcome to my portfolio! I'm Pradeep Singh, a passionate Web Developer. Through this collection of my work, I aim to provide you with insight into my skills, expertise, and creative approach.
 This is a Personal Portfolio Website showcasing my skills, projects, and contact information. The website is designed to provide a professional online presence and help potential employers or clients learn more about me.
 
@@ -45,7 +45,7 @@ https://pradeep-r04.github.io/portfolio/
 ### 1. Home Page  
 ![Image](https://github.com/user-attachments/assets/38852a2b-42f8-42d2-a827-becf5c92590a)
 
-### 2. About SEction  
+### 2. About Section  
 ![Image](https://github.com/user-attachments/assets/d808e013-f73e-408d-9999-f4e3a3223549)
 
 ### 3. Skills Section
