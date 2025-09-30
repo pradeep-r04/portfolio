@@ -69,7 +69,7 @@ https://pradeep-r04.github.io/portfolio/
 <h3 align="center">Pradeep Singh</h3>
 
 <p align="center">
-  <a href="https://github.com/pradeep-04r">
+  <a href="https://github.com/pradeep-r04">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/pradeep-singh4/">
