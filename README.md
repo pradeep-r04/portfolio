@@ -60,10 +60,11 @@ https://pradeep-r04.github.io/portfolio/
 ### 6. Contact Section
 ![Image](https://github.com/user-attachments/assets/34c9d846-fac3-4e2d-b0b5-4e754b3fa831)  
 
-## ✍️ About Developer    
 
+
+## ✍️ About Developer  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2f8af3ae-34df-41aa-b7ec-3f0a3bfdf174" alt="Developer Image" width="200"/>
+  <img src="https://github.com/user-attachments/assets/a615929b-6615-46fc-9046-19a7ed74d5c0" alt="Developer Image" width="200"/>
 </p>
 
 <h3 align="center">Pradeep Singh</h3>
@@ -74,6 +75,9 @@ https://pradeep-r04.github.io/portfolio/
   </a>
   <a href="https://www.linkedin.com/in/pradeep-singh4/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+	<a href="https://www.instagram.com/in/whypradeeep/">
+    <img src="https://img.shields.io/badge/Instagram-F72D3B?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
