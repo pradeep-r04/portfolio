@@ -89,7 +89,7 @@ opacity:0;
 animation:slideBottom 1s ease forwards;
 animation-delay: .7s;
 }
-span{
+.highlight{
   color: #FF004f;
 }
 
@@ -417,6 +417,7 @@ opacity:1;
 }
 .portfolio-box:hover .portfolio-layer{
   transform: translateY(0);
+  box-shadow: 0 0 25px rgba(0,238,255,0.5);
 }
 .portfolio-layer h4{
   font-size: 2rem;
